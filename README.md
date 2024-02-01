@@ -15,3 +15,8 @@ The harmful activities are carried out through the CMD, but the operator may als
 
 https://github.com/S3N4T0R-0X0/Initial-Registry/assets/121706460/6e5b2591-3953-4a6b-b05f-81a405e8bf80
 
+I used this site for resources to desible defenses through the Windows registry by setting Windows Registry  Activity in the disable.txt
+
+https://swisskyrepo.github.io/InternalAllTheThings/redteam/persistence/windows-persistence/#disable-antivirus-and-security
+
+
