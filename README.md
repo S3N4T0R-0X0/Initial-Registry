@@ -21,6 +21,8 @@ https://github.com/S3N4T0R-0X0/Initial-Registry/assets/121706460/6e5b2591-3953-4
 I used this site for resources to desible defenses through the Windows registry by setting Windows Registry  Activity in the disable.txt
 https://swisskyrepo.github.io/InternalAllTheThings/redteam/persistence/windows-persistence/#disable-antivirus-and-security
 
+Note: After clicking on the registry file and setting the payload input, you may need to restart the Windows machine so that you can run the exploit.
+
 
 
 
