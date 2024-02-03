@@ -1,7 +1,7 @@
 # Initial-Registry
 It is a simple registry file that performs malicious activities when the refresh button is pressed, Such as start a malicious link, making an execution for payload, or running a malicious command line in CMD or PowerShell
-![1706749031823](https://github.com/S3N4T0R-0X0/Initial-Registry/assets/121706460/f5c7acd0-77a2-4410-80c4-4f8c095e7dee)
 
+![1706980167902](https://github.com/S3N4T0R-0X0/Initial-Registry/assets/121706460/911125db-9ec9-4be3-b0b7-d9ee63317003)
 Specifically through the registry.
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]
